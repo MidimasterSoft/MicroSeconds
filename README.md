@@ -14,16 +14,20 @@ GitHub: https://github.com/MidimasterSoft
 
 ## Now:Long()
 returns a timestamp in Microseconds
-
+ 
+.
 ## SleepUntil(MicroTime:Long)  
 sleeps until the current time MicroTime is reached
 
+.
 ## GetDelta:Long() 
 returns the MicroSeconds since last GetDelta()-Call
 
+.
 ## UDelay(MicroSeconds:Int)
 pauses for n MicroSeconds
 
+.
 # Detailed Functions Description
 
 ## Now:Long()
