@@ -1,8 +1,12 @@
 ' Micro-seconds in BitzMax    Version 1.1    2024-11-07
 ' Public domain,  Author: Midimaster-Software www.midimaster.de    https://github.com/MidimasterSoft 
 '
-SuperStrict 
-Print MicroTimer.Now()
+'Example:
+'    SuperStrict 
+'    Print MicroTimer.Now()     ' thats all you need to do
+'    End
+' ------------------------------------------------------------------------
+
 
 
 Type MicroTimer
